@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "express": "4.x",
-    "jquery": "3.x"
+    "jquery": "2.x"
 
   },
   "scripts": {
