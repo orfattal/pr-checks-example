@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "jquery": "2.x"
+    "jquery": "2.x",
+    "express": "2.5.11"
 
   },
   "scripts": {
